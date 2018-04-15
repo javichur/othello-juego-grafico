@@ -1,10 +1,6 @@
 /*
 
-BY FCO. JAVIER CAMPOS
-
-fracambe@inf.upv.es
-
-oterov05.c
+BY FCO. JAVIER CAMPOS (www.javiercampos.es)
 
 Cuadro de diagonales (para la función ejecuta_tirada)
 
